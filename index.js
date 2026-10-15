@@ -23,7 +23,7 @@ let FullStackDeveloper = {
 let Perro = {
     nombre: "Toby",
     raza: "Labrador",
-    color: "Marrón",
+    color: "Marron",
     edad: 4,
     ladrar: function () {
         console.log("¡Guau guau!");
@@ -69,8 +69,8 @@ let Noticia = {
 
 // 14
 let Persona = {
-    nombre: "Héctor",
-    apellidos: "García López",
+    nombre: "Hector",
+    apellidos: "García Lopez",
     edad: 28
 };
 
